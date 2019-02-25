@@ -1,0 +1,15 @@
+{
+  "name": "tpiotplugin",
+  "version": "1.0.0",
+  "description": "This tp azure iot devices oprations ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "azure",
+    "iot"
+  ],
+  "author": "Ramakrishna Reddy",
+  "license": "ISC"
+}
