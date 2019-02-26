@@ -10,6 +10,10 @@
     "azure",
     "iot"
   ],
+  "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Ramakrishnatp/tpiotplugin.git"
+    },
   "author": "Ramakrishna Reddy",
   "license": "ISC"
 }
